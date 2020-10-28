@@ -11,9 +11,9 @@
 - 抖音小程序激励视频广告
 - 抖音小程序付费（微信）
 
-![](http://wp1.linkabc.top/wp-content/uploads/2020/10/S01023-22403679-576x1024.jpg)
+![](https://raw.githubusercontent.com/assess001/-/main/assess1.jpg)
 
-![](http://wp1.linkabc.top/wp-content/uploads/2020/10/S01023-22490354-576x1024.jpg)
+![](https://raw.githubusercontent.com/assess001/-/main/assess2.jpg)
 
 
 

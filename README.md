@@ -19,10 +19,6 @@
 - 单次测评付费（微信支付）
 - 升级VIP付费（微信支付）
 
-![](https://raw.githubusercontent.com/assess001/-/main/assess1.jpg)
-
-![](https://raw.githubusercontent.com/assess001/-/main/assess2.jpg)
-
 ```
 问题: 系统支持哪些平台？
 回答：支持微信公众号网页、微信小程序、抖音小程序、今日头条小程序、今日头条小程序lite
@@ -45,3 +41,9 @@
 问题：系统是否支持定制开发？
 回答：请联系客服咨询报价
 ```
+
+
+
+![](https://raw.githubusercontent.com/assess001/-/main/assess1.jpg)
+
+![](https://raw.githubusercontent.com/assess001/-/main/assess2.jpg)

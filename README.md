@@ -49,8 +49,6 @@
 # 演示地址【微信扫一扫】
 ![](https://raw.githubusercontent.com/assess001/-/main/h5.png)
 
-![](https://raw.githubusercontent.com/assess001/-/main/assess1.jpg)
 
-![](https://raw.githubusercontent.com/assess001/-/main/assess2.jpg)
-
-![](https://raw.githubusercontent.com/assess001/-/main/assess3.jpg)
+# 后台演示地址
+- 联系客服获取

@@ -46,7 +46,8 @@
 回答：请联系客服咨询报价
 ```
 
-
+# 演示地址【微信扫一扫】
+![](https://raw.githubusercontent.com/assess001/-/main/h5.png)
 
 ![](https://raw.githubusercontent.com/assess001/-/main/assess1.jpg)
 

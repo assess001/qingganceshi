@@ -33,6 +33,8 @@
 # 后台演示地址
 - 联系客服获取
 
+![](https://raw.githubusercontent.com/assess001/-/main/心理测评系统.png)
+
 
 ```
 问题: 系统支持哪些平台？
